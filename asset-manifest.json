@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/socketry-frontend/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/socketry-frontend/static/js/main.78b48c17.chunk.js",
+    "main.js.map": "/socketry-frontend/static/js/main.78b48c17.chunk.js.map",
+    "runtime-main.js": "/socketry-frontend/static/js/runtime-main.b49e84a0.js",
+    "runtime-main.js.map": "/socketry-frontend/static/js/runtime-main.b49e84a0.js.map",
+    "static/js/2.e6002758.chunk.js": "/socketry-frontend/static/js/2.e6002758.chunk.js",
+    "static/js/2.e6002758.chunk.js.map": "/socketry-frontend/static/js/2.e6002758.chunk.js.map",
+    "static/js/3.93a63812.chunk.js": "/socketry-frontend/static/js/3.93a63812.chunk.js",
+    "static/js/3.93a63812.chunk.js.map": "/socketry-frontend/static/js/3.93a63812.chunk.js.map",
+    "index.html": "/socketry-frontend/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/socketry-frontend/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e6002758.chunk.js.LICENSE.txt": "/socketry-frontend/static/js/2.e6002758.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/socketry-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b49e84a0.js",
+    "static/js/2.e6002758.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.78b48c17.chunk.js"
+  ]
+}
