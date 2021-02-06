@@ -14,5 +14,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 `npm test`
 
 ### Deploy
-`npm run build`
-Merge into master
+* Automatic on push to master
+* Manually: `npm run deploy`
