@@ -1,0 +1,15 @@
+name: Run tests
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - runs: npm install
+      - runs: npm test
+      - runs: npm run build
