@@ -19,3 +19,4 @@ If you want to override locally, copy the .env file and rename the copy to .env.
 ### Deploy
 * Automatic on push to master
 * Manually: `npm run deploy`
+* Page is currently accessible at: https://jm3ad.github.io/socketry-frontend/
