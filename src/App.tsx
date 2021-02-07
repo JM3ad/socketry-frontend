@@ -5,7 +5,8 @@ import './App.css';
 
 function App() {
 
-  const ENDPOINT = "http://127.0.0.1:5000";
+  const ENDPOINT: string = process.env.REACT_APP_BACKEND_URL || "";
+  console.log(ENDPOINT);
   const [response, setResponse] = useState("");
 
   useEffect(() => {
